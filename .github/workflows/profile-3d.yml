@@ -16,9 +16,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
-          git config user.name juiuj
-          git config user.email dev.joohee0916@gmail.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          git config --global user.name "juiuj"
+          git config --global user.email "dev.joohee0916@gmail.com"
+          git add -A
+          git commit -m "generated" || echo "Nothing to commit"
+          git push || echo "Push failed"
+
