@@ -14,9 +14,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,react,js,ts,notion&theme=light" />
   </a>
-
   <br/>
-  <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juiuj&layout=compact)
 </div>
 
 
