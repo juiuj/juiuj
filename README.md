@@ -1,6 +1,7 @@
-## 나만의.. 동물농장... :feet: :mushroom:
-
 <div align="center">
+  
+# 나만의.. 동물농장... :feet: :mushroom:
+  
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/juiuj"
