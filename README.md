@@ -4,6 +4,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,react,js,ts&theme=light" />
   </a>
+ 
+
   <br/>
   
   ## 📝 About 
@@ -12,5 +14,5 @@
   ![](./profile-3d-contrib/profile-green-animate.svg)
   
 </div>
-
+<img src=https://github.com/user-attachments/assets/0aff2316-b0cd-4234-80d6-4df900af5743/>
 
