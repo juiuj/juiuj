@@ -14,5 +14,4 @@
   ![](./profile-3d-contrib/profile-green-animate.svg)
   
 </div>
-<img src=https://github.com/user-attachments/assets/0aff2316-b0cd-4234-80d6-4df900af5743/>
 
