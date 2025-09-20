@@ -11,7 +11,7 @@
   
   ## 📝 About 
   [YU LikeLion 12th](https://github.com/user-attachments/files/19752480/default.pdf) 🦁 <br />
-  YU LikeLion 13th 운영진 25.~
+  YU LikeLion 13th Central executive 25.01~
 
   
   <br/>
