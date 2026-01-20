@@ -11,7 +11,7 @@
   
   ## 📝 About 
   [YU LikeLion 12th](https://github.com/Likelion-YeungNam-Univ) 🦁 <br />
-  [YU LikeLion 13th Central executive 25.01~25.12](https://github.com/Likelion-YeungNam-Univ)
+  [LikeLion 13th Central executive 25.01~25.12](https://github.com/Likelion-YeungNam-Univ)
 
   
   <br/>
