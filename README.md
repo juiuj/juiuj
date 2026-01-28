@@ -15,7 +15,10 @@
 
   
   <br/>
-  
+<p align="center">$\Huge{\color{#ff69b4}\mathbf{\textsf{▽▼▽▼ 주희의 개발자로 살아남기\_공부는계속된다 시리즈 보/러/가/기 ▽▼▽▼}}}$</p>
+
+
+   <br/>
   <a href="https://velog.io/@dev-joohee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dev-joohee"/></a>
 
   ![](./profile-3d-contrib/profile-green-animate.svg)
