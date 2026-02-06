@@ -25,7 +25,10 @@
 
   <br/>
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=juiuj)](https://github.com/juiuj/github-profile-trophy)
 
-  
+![trophy](https://github-profile-trophy.vercel.app/?username=juiuj&theme=flat&no-frame=true)
+
+
 </div>
 
