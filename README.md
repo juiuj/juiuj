@@ -3,7 +3,7 @@
   
   ## :eight_pointed_black_star: Tools 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,react,js,ts,aws,figma,git,github,docker,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,spring,java,aws,figma,git,github,docker,nodejs&theme=light" />
   </a>
  
 
